@@ -4,6 +4,21 @@
 
 GeoGame is an educational and entertaining geography game that challenges players to identify the capital cities of countries around the world on a map. Players answer questions about various capitals or countries, earning points for correct answers, and receive a final score based on their performance.
 
+
++----------------------------------------+
+|               GeoGame                  |
+|----------------------------------------|
+|               Map Area                 |
+|           (Powered by Leaflet)         |
+|----------------------------------------|
+| Question: What country is Paris in?    |
+| [France]  [Germany]  [Italy]  [Spain]  |
+|                                        |
+|     Score: 30                          |
+|     Next Question Button               |
++----------------------------------------+
+
+
 ## Table of Contents
 
 1. [Project Description and Purpose](#project-description-and-purpose)
