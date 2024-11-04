@@ -2,7 +2,7 @@
 
 # GeoGame - World Capitals Quiz 🌍
 
-GeoGame is an educational and entertaining geography game that challenges players to identify the capital cities of countries around the world on a map. Players answer questions about various capitals or countries, earning points for correct answers, and receive a final score based on their performance.
+This is an educational and entertaining geography game that challenges players to identify the capital cities of countries around the world on a map. Players answer questions about various capitals or countries, earning points for correct answers, and receive a final score based on their performance.
 
 
 +----------------------------------------+
