@@ -85,4 +85,12 @@ The project utilizes the following libraries and technologies:
 - **Feedback Animations**: D3.js animations show visual feedback, such as circles or stars, for correct answers.
 
 ## Project File Structure
+GeoGame/  ├── index.html # Main HTML file with the game layout and structure 
+          ├── styles.css # CSS file for styling the game interface     
+          ├── script.js # JavaScript file for game logic and map interactions   
+          ├── images/ # Folder for images (city photos and marker icons) 
+          ├── README.md # Project documentation and description └── LICENSE # License information
+
+
+![Ekran görüntüsü 2024-11-14 121112](https://github.com/user-attachments/assets/fcf2bbb9-3568-455b-99ab-508be101ed86)
 
