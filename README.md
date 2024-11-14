@@ -2,6 +2,8 @@
 
 GeoGame is an interactive educational game designed to help users learn world capitals through a fun and engaging map-based quiz. Players are presented with the name of a capital city, and their task is to identify the country it belongs to from four multiple-choice options. Points are awarded for each correct answer, and a final score determines the player's success at the end of the game.
 
+https://gmt-458-web-gis.github.io/geogame-tubacevik/
+
 ## How to Play
 
 - **Question Timer**: Each question has a countdown timer (e.g., 10 seconds) displayed on the screen. Players must select an answer before the time runs out.  
