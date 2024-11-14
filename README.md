@@ -138,7 +138,8 @@ GeoGame/
 ### 6. End of Game Result Display
  
 - The game ends when the timer runs out or all questions have been answered. A final message appears, stating “You won!” or “You lost!” based on the score achieved. All correctly answered cities remain marked with stars on the map, providing a summary of the player’s performance.
-
+- 
+![End of game result](https://i.ibb.co/NsZwVhS/gg.jpg)
 
 ![End of game result](https://i.ibb.co/9qkNXQ4/Ekran-g-r-nt-s-2024-11-01-002705.jpg) 
 </div>
