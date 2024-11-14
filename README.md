@@ -1,8 +1,15 @@
+![alt text](https://www.freelogovectors.net/wp-content/uploads/2020/07/hacettepe-universitesi-logo-768x178.png)
+# GMT458 INTERNET BASED GEOGRAPHICAL INFORMATION SYSTEMS
+
+* 2200674068 Tuba ÇEVİK
+
+### Github-Pages of the Game
+
+https://gmt-458-web-gis.github.io/geogame-tubacevik/
+
 # GeoGame - World Capitals Quiz 🌍
 
 GeoGame is an interactive educational game designed to help users learn world capitals through a fun and engaging map-based quiz. Players are presented with the name of a capital city, and their task is to identify the country it belongs to from four multiple-choice options. Points are awarded for each correct answer, and a final score determines the player's success at the end of the game.
-
-https://gmt-458-web-gis.github.io/geogame-tubacevik/
 
 ## How to Play
 
