@@ -99,7 +99,7 @@ GeoGame/  - ├── index.html # Main HTML file with the game layout and struc
 
 - A question about a capital city is displayed on the map, along with four multiple-choice options. Players have a set amount of time to select the correct answer.
   
-![Question on world map](https://i.ibb.co/NC9nS24/Ekran-g-r-nt-s-2024-11-01-002728.jpg)
+![Question on world map](https://ibb.co/rpCr1Zk"><img src="https://i.ibb.co/JpfJMzn/e.jpg)
 
 
 
