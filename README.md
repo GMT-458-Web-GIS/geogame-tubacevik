@@ -93,6 +93,11 @@ GeoGame/  ├── index.html # Main HTML file with the game layout and structu
 
 
 <div align="center">
-  <img src="‪C:\Users\PC06032-290523A\Desktop\a.jpg" alt="Example Image" width="400" />
+  <a href="https://ibb.co/vZvNsPP"><img src="https://i.ibb.co/jgZCVMM/Ekran-g-r-nt-s-2024-10-31-232833.jpg" alt="Ekran-g-r-nt-s-2024-10-31-232833" border="0"></a>
+  <a href="https://ibb.co/FK4wYpG"><img src="https://i.ibb.co/vH4Pd92/d.jpg" alt="d" border="0"></a>
+  <a href="https://ibb.co/CWm5X7N"><img src="https://i.ibb.co/XVjZdsN/c.jpg" alt="c" border="0"></a>
+  <a href="https://ibb.co/6rtDqvn"><img src="https://i.ibb.co/0m9YzBD/b.jpg" alt="b" border="0"></a>
+  <a href="https://ibb.co/f1B95Hs"><img src="https://i.ibb.co/cgMwHQj/a.jpg" alt="a" border="0"></a>
+  <a href="https://ibb.co/WPR6cR5"><img src="https://i.ibb.co/hZTyKT9/son.jpg" alt="son" border="0"></a>
 </div>
 
