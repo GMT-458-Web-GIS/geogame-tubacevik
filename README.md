@@ -122,7 +122,7 @@ GeoGame/  - ├── index.html # Main HTML file with the game layout and struc
 
 - If the player doesn’t answer within the allotted time, they receive a “Time’s up” notification, and the game moves to the next question without awarding any points.
   
-![Notification on time out](https://i.ibb.co/XVjZdsN/c.jpg)
+![Notification on time out](https://i.ibb.co/7GzW1r2/a.jpg)
 
 
 
