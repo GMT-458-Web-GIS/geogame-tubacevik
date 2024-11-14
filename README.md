@@ -97,27 +97,33 @@ GeoGame/  ├── index.html # Main HTML file with the game layout and structu
   
 ### 1. Displaying Questions on the World Map
 ![Question on world map](https://i.ibb.co/NC9nS24/Ekran-g-r-nt-s-2024-11-01-002728.jpg)
-A question about a capital city is displayed on the map, along with four multiple-choice options. Players have a set amount of time to select the correct answer.
+
+- A question about a capital city is displayed on the map, along with four multiple-choice options. Players have a set amount of time to select the correct answer.
 
 ### 2. Score Increase on Correct Answer
 ![Score increase on correct answer](https://i.ibb.co/s90ZQ8t/a.jpg)
-When a player selects the correct answer, they earn 10 points, and a star icon is added to mark the correct capital city on the map. This star serves as a visual indicator of the cities the player has correctly identified.
+
+- When a player selects the correct answer, they earn 10 points, and a star icon is added to mark the correct capital city on the map. This star serves as a visual indicator of the cities the player has correctly identified.
 
 ### 3. Warning and Progression on Wrong Answer
 ![Warning on wrong answer](https://i.ibb.co/0m9YzBD/b.jpg)
-If the player selects the wrong answer, they receive a “Wrong answer” notification and no points are awarded. The game automatically proceeds to the next question.
+
+- If the player chooses the wrong answer, they will receive a "Wrong answer" notification and the game will automatically move on to the next question.
 
 ### 4. Notification and Progression on Time Out
 ![Notification on time out](https://i.ibb.co/XVjZdsN/c.jpg)
-If the player doesn’t answer within the allotted time, they receive a “Time’s up” notification, and the game moves to the next question without awarding any points.
+
+- If the player doesn’t answer within the allotted time, they receive a “Time’s up” notification, and the game moves to the next question without awarding any points.
 
 ### 5. Marking Correctly Answered Capitals with Stars
 ![Marking correct answers with stars](https://i.ibb.co/vH4Pd92/d.jpg)
-Each correctly answered capital city is marked with a star icon on the map, allowing the player to track their progress visually.
+
+- Each correctly answered capital city is marked with a star icon on the map, allowing the player to track their progress visually.
 
 ### 6. End of Game Result Display
 ![End of game result](https://i.ibb.co/XpqN9yY/Ekran-g-r-nt-s-2024-11-01-002840.jpg)
-The game ends when the timer runs out or all questions have been answered. A final message appears, stating “You won!” or “You lost!” based on the score achieved. All correctly answered cities remain marked with stars on the map, providing a summary of the player’s performance.
+ 
+- The game ends when the timer runs out or all questions have been answered. A final message appears, stating “You won!” or “You lost!” based on the score achieved. All correctly answered cities remain marked with stars on the map, providing a summary of the player’s performance.
 
 </div>
 
