@@ -91,7 +91,7 @@ GeoGame/
 - ├── styles.css # CSS file for styling the game interface     
 - ├── script.js # JavaScript file for game logic and map interactions   
 - ├── images/ # Folder for images (city photos and marker icons) 
-- ├── README.md # Project documentation and description └── LICENSE # License information
+- ├── README.md # Project documentation and description 
 
 
 <div align="center">
