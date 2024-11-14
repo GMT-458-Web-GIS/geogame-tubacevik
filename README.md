@@ -92,5 +92,7 @@ GeoGame/  ├── index.html # Main HTML file with the game layout and structu
           ├── README.md # Project documentation and description └── LICENSE # License information
 
 
-![Ekran görüntüsü 2024-11-14 121112](https://github.com/user-attachments/assets/fcf2bbb9-3568-455b-99ab-508be101ed86)
+<div align="center">
+  <img src="‪C:\Users\PC06032-290523A\Desktop\a.jpg" alt="Example Image" width="400" />
+</div>
 
