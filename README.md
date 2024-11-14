@@ -94,10 +94,18 @@ GeoGame/  ├── index.html # Main HTML file with the game layout and structu
 
 <div align="center">
   
+###Dünya haritası üzerinde soru çıkacak
 <a href="https://ibb.co/6wHJB0d"><img src="https://i.ibb.co/NC9nS24/Ekran-g-r-nt-s-2024-11-01-002728.jpg" alt="Ekran-g-r-nt-s-2024-11-01-002728" border="0"></a>
+
+
+.....doğru cevap verdiğinde score +10 olucak
 <a href="https://ibb.co/Qv24nyX"><img src="https://i.ibb.co/s90ZQ8t/a.jpg" alt="a" border="0"></a>
+yanlış cevap verdiğinde yanlış cevap verdiniz uyarısı verip bir sonraki soruya geçecek
 <a href="https://ibb.co/6rtDqvn"><img src="https://i.ibb.co/0m9YzBD/b.jpg" alt="b" border="0"></a>
+belirtilen süre içerisinde cevap verilmediğinde süreniz doldu uyarısı verip bir sonraki soruya geçecek
 <a href="https://ibb.co/CWm5X7N"><img src="https://i.ibb.co/XVjZdsN/c.jpg" alt="c" border="0"></a>
+
+doğru cevap verilen tüm ülkelere yıldız simgesi koyacak
 <a href="https://ibb.co/FK4wYpG"><img src="https://i.ibb.co/vH4Pd92/d.jpg" alt="d" border="0"></a>
 
 
