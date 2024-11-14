@@ -96,14 +96,18 @@ GeoGame/  ├── index.html # Main HTML file with the game layout and structu
 <div align="center">
   
 ### 1. Displaying Questions on the World Map
-![Question on world map](https://i.ibb.co/NC9nS24/Ekran-g-r-nt-s-2024-11-01-002728.jpg)
 
 - A question about a capital city is displayed on the map, along with four multiple-choice options. Players have a set amount of time to select the correct answer.
+![Question on world map](https://i.ibb.co/NC9nS24/Ekran-g-r-nt-s-2024-11-01-002728.jpg)
+
+
 
 ### 2. Score Increase on Correct Answer
-![Score increase on correct answer](https://i.ibb.co/s90ZQ8t/a.jpg)
+
 
 - When a player selects the correct answer, they earn 10 points, and a star icon is added to mark the correct capital city on the map. This star serves as a visual indicator of the cities the player has correctly identified.
+![Score increase on correct answer](https://i.ibb.co/s90ZQ8t/a.jpg)
+
 
 ### 3. Warning and Progression on Wrong Answer
 ![Warning on wrong answer](https://i.ibb.co/0m9YzBD/b.jpg)
