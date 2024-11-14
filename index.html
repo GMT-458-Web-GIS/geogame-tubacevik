@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GeoGame Adventure</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div id="map"></div>
+  <div id="question-box">
+    <h2>Country Quiz</h2>
+    <img id="city-image" src="" alt="City Image">
+    <p id="question">Which country is this?</p>
+    <div id="options">
+      <button class="option-btn">Option 1</button>
+      <button class="option-btn">Option 2</button>
+      <button class="option-btn">Option 3</button>
+      <button class="option-btn">Option 4</button>
+    </div>
+    <p id="score">Score: <span id="score-value">0</span></p>
+    <button onclick="nextQuestion()">Next</button>
+    
+    <!-- Zamanlayıcıları buraya ekleyin -->
+    <div id="game-timer" style="font-size: 18px; margin-bottom: 10px;">Total Game Time Left: 120s</div> 
+    <div id="question-timer" style="font-size: 18px; margin-bottom: 20px;">Time Left for Question: 10s</div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

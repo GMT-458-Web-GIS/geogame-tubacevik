@@ -1,0 +1,66 @@
+/* Sayfanın varsayılan stili */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden; /* Sayfa kaydırmasını engeller */
+  font-family: Arial, sans-serif;
+}
+
+/* Harita alanı tam ekran */
+#map {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh; /* Ekranın tamamını kaplar */
+  z-index: 1; /* Diğer içeriklerin altında kalmaması için */
+}
+
+/* Soru kutusu */
+#question-box {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  width: 300px;
+  z-index: 1000; /* Haritanın üstünde görünmesi için yüksek z-index */
+}
+
+/* Şehir görüntüsü */
+#city-image {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+/* Seçenek butonları */
+#options {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+.option-btn {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.option-btn:hover {
+  background: #0056b3;
+}
+
+/* Skor gösterimi */
+#score {
+  margin-top: 10px;
+  font-weight: bold;
+}
