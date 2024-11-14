@@ -114,7 +114,7 @@ GeoGame/  - ├── index.html # Main HTML file with the game layout and struc
 
 - If the player chooses the wrong answer, they will receive a "Wrong answer" notification and the game will automatically move on to the next question.
 
-![Warning on wrong answer](https://i.ibb.co/0m9YzBD/b.jpg)
+![Warning on wrong answer](https://i.ibb.co/1R6JbX4/bb.jpg)
 
 
 
