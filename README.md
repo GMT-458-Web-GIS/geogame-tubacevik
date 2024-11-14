@@ -98,22 +98,25 @@ GeoGame/  ├── index.html # Main HTML file with the game layout and structu
 <a href="https://ibb.co/6wHJB0d"><img src="https://i.ibb.co/NC9nS24/Ekran-g-r-nt-s-2024-11-01-002728.jpg" alt="Ekran-g-r-nt-s-2024-11-01-002728" border="0"></a>
 
 
-.....doğru cevap verdiğinde score +10 olucak
+###doğru cevap verdiğinde score +10 olucak
 <a href="https://ibb.co/Qv24nyX"><img src="https://i.ibb.co/s90ZQ8t/a.jpg" alt="a" border="0"></a>
-yanlış cevap verdiğinde yanlış cevap verdiniz uyarısı verip bir sonraki soruya geçecek
+
+###yanlış cevap verdiğinde yanlış cevap verdiniz uyarısı verip bir sonraki soruya geçecek
+
 <a href="https://ibb.co/6rtDqvn"><img src="https://i.ibb.co/0m9YzBD/b.jpg" alt="b" border="0"></a>
-belirtilen süre içerisinde cevap verilmediğinde süreniz doldu uyarısı verip bir sonraki soruya geçecek
+
+###belirtilen süre içerisinde cevap verilmediğinde süreniz doldu uyarısı verip bir sonraki soruya geçecek
 <a href="https://ibb.co/CWm5X7N"><img src="https://i.ibb.co/XVjZdsN/c.jpg" alt="c" border="0"></a>
 
-doğru cevap verilen tüm ülkelere yıldız simgesi koyacak
+####doğru cevap verilen tüm ülkelere yıldız simgesi koyacak
+
 <a href="https://ibb.co/FK4wYpG"><img src="https://i.ibb.co/vH4Pd92/d.jpg" alt="d" border="0"></a>
 
+###oyun bittiğinde bildiğiniz soru sayısına göre kazandınız yada kaybettiniz şeklinde mesaj ile birlikte harita üzerinde doğru bildiğiniz şehirler yıldızla işarreteli olarak görünecektir. 
 
-<a href="https://ibb.co/927zJwZ"><img src="https://i.ibb.co/XpqN9yY/Ekran-g-r-nt-s-2024-11-01-002840.jpg" alt="Ekran-g-r-nt-s-2024-11-01-002840" border="0"></a>
 
 <a href="https://ibb.co/2j1y2GM"><img src="https://i.ibb.co/9qkNXQ4/Ekran-g-r-nt-s-2024-11-01-002705.jpg" alt="Ekran-g-r-nt-s-2024-11-01-002705" border="0"></a>
 <a href="https://ibb.co/WPR6cR5"><img src="https://i.ibb.co/hZTyKT9/son.jpg" alt="son" border="0"></a>
-<a href="https://ibb.co/vZvNsPP"><img src="https://i.ibb.co/jgZCVMM/Ekran-g-r-nt-s-2024-10-31-232833.jpg" alt="Ekran-g-r-nt-s-2024-10-31-232833" border="0"></a>
-<a href="https://ibb.co/dtmLmZB"><img src="https://i.ibb.co/5kKnKZT/Ekran-g-r-nt-s-2024-10-31-232748.jpg" alt="Ekran-g-r-nt-s-2024-10-31-232748" border="0"></a>
+
 </div>
 
