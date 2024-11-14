@@ -139,7 +139,6 @@ GeoGame/  - ├── index.html # Main HTML file with the game layout and struc
 - The game ends when the timer runs out or all questions have been answered. A final message appears, stating “You won!” or “You lost!” based on the score achieved. All correctly answered cities remain marked with stars on the map, providing a summary of the player’s performance.
 
 
-![End of game result](https://i.ibb.co/XpqN9yY/Ekran-g-r-nt-s-2024-11-01-002840.jpg)
-
+![End of game result](https://i.ibb.co/9qkNXQ4/Ekran-g-r-nt-s-2024-11-01-002705.jpg) 
 </div>
 
