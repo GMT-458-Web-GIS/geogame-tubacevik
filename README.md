@@ -94,7 +94,7 @@ GeoGame/  ├── index.html # Main HTML file with the game layout and structu
 
 <div align="center">
   
-  <a href="https://ibb.co/f1B95Hs"><img src="https://i.ibb.co/cgMwHQj/a.jpg" alt="a" border="0"></a>
+  <a href="https://ibb.co/GdNStM1"><img src="https://i.ibb.co/x2dTfgc/a.jpg" alt="a" border="0"></a>
   <a href="https://ibb.co/6rtDqvn"><img src="https://i.ibb.co/0m9YzBD/b.jpg" alt="b" border="0"></a>
   <a href="https://ibb.co/CWm5X7N"><img src="https://i.ibb.co/XVjZdsN/c.jpg" alt="c" border="0"></a>
   <a href="https://ibb.co/FK4wYpG"><img src="https://i.ibb.co/vH4Pd92/d.jpg" alt="d" border="0"></a>    
