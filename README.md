@@ -17,6 +17,7 @@ GeoGame is an interactive educational game designed to help users learn world ca
 
 This structure provides a time-based challenge, encouraging players to answer both quickly and accurately. The combination of question and game timers keeps the game fast-paced and engaging.
 
+
 ## Table of Contents
 
 - [Project Description and Purpose](#project-description-and-purpose)
@@ -94,29 +95,18 @@ GeoGame/  ├── index.html # Main HTML file with the game layout and structu
 
 <div align="center">
   
-###Dünya haritası üzerinde soru çıkacak
-<a href="https://ibb.co/6wHJB0d"><img src="https://i.ibb.co/NC9nS24/Ekran-g-r-nt-s-2024-11-01-002728.jpg" alt="Ekran-g-r-nt-s-2024-11-01-002728" border="0"></a>
+**Question Timer**: Each question has a countdown timer (e.g., 10 seconds) displayed on the screen. Players must select an answer before the time runs out.  
+  - If the player selects the correct answer within the time limit, they earn 10 points, and the location is marked with a star icon on the map.
+  - If the player does not answer within the allotted time, the question is considered incorrect, no points are awarded, and the game automatically proceeds to the next question.
 
+- **Game Timer**: The game has a total timer (e.g., 120 seconds) which limits the overall playtime. This timer counts down throughout the game.  
+  - If the game timer reaches zero before all questions are answered, the game ends immediately, and the player's final score is displayed.
 
-###doğru cevap verdiğinde score +10 olucak
-<a href="https://ibb.co/Qv24nyX"><img src="https://i.ibb.co/s90ZQ8t/a.jpg" alt="a" border="0"></a>
+- **End of Game**: Once all questions have been answered or the total game time runs out, the final score is displayed with a success or failure message:  
+  - If the score is above average, a success message appears: "Congratulations, You Earned Points: [Score]".
+  - If the score is below average, a failure message appears: "Game Over!! Score: [Score]".
 
-###yanlış cevap verdiğinde yanlış cevap verdiniz uyarısı verip bir sonraki soruya geçecek
-
-<a href="https://ibb.co/6rtDqvn"><img src="https://i.ibb.co/0m9YzBD/b.jpg" alt="b" border="0"></a>
-
-###belirtilen süre içerisinde cevap verilmediğinde süreniz doldu uyarısı verip bir sonraki soruya geçecek
-<a href="https://ibb.co/CWm5X7N"><img src="https://i.ibb.co/XVjZdsN/c.jpg" alt="c" border="0"></a>
-
-####doğru cevap verilen tüm ülkelere yıldız simgesi koyacak
-
-<a href="https://ibb.co/FK4wYpG"><img src="https://i.ibb.co/vH4Pd92/d.jpg" alt="d" border="0"></a>
-
-###oyun bittiğinde bildiğiniz soru sayısına göre kazandınız yada kaybettiniz şeklinde mesaj ile birlikte harita üzerinde doğru bildiğiniz şehirler yıldızla işarreteli olarak görünecektir. 
-
-
-<a href="https://ibb.co/2j1y2GM"><img src="https://i.ibb.co/9qkNXQ4/Ekran-g-r-nt-s-2024-11-01-002705.jpg" alt="Ekran-g-r-nt-s-2024-11-01-002705" border="0"></a>
-<a href="https://ibb.co/WPR6cR5"><img src="https://i.ibb.co/hZTyKT9/son.jpg" alt="son" border="0"></a>
+This structure provides a time-based challenge, encouraging players to answer both quickly and accurately. The combination of question and game timers keeps the game fast-paced and engaging.
 
 </div>
 
