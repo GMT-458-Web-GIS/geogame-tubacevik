@@ -111,13 +111,9 @@ The project utilizes the following libraries and technologies:
 
 ## AI Interaction
 
--**Timer Implementation**:
-
-    - ChatGPT assisted in creating both the question timer and the game timer, ensuring smooth countdown functionality and integration into the interface (https://chatgpt.com/c/6750ab9c-3cf0-8000-87e0-ac397470ca59).
+-**Timer Implementation**:ChatGPT assisted in creating both the question timer and the game timer, ensuring smooth countdown functionality and integration into the interface (https://chatgpt.com/c/6750ab9c-3cf0-8000-87e0-ac397470ca59).
     
-- **Correct Answer Marking**:
-
-    - The feature to mark correct answers on the map with a star icon was implemented with guidance from ChatGPT (https://chatgpt.com/c/6750b49d-fe1c-8000-86ab-f81ab774c616).
+- **Correct Answer Marking**:The feature to mark correct answers on the map with a star icon was implemented with guidance from ChatGPT (https://chatgpt.com/c/6750b49d-fe1c-8000-86ab-f81ab774c616).
       
 ## DOM Interaction
 DOM manipulation is a key part of this project. Examples include:
