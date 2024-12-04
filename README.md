@@ -94,6 +94,10 @@ The project utilizes the following libraries and technologies:
   - **Question Timer**: Shows the remaining time for the current question just below the question text.
 - **Feedback Animations**: D3.js animations show visual feedback, such as circles or stars, for correct answers.
 
+## Öğrenilen konular:
+
+https://chatgpt.com/c/6750ab9c-3cf0-8000-87e0-ac397470ca59
+
 ## Project File Structure
 GeoGame/  
 - ├── index.html # Main HTML file with the game layout and structure
