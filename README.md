@@ -42,14 +42,14 @@ GeoGame is designed to enhance users' geographical knowledge of world capitals t
 - **Game Timer**: The game has a total timer (e.g., 120 seconds) which limits the overall playtime. This timer counts down throughout the game.  
   - If the game timer reaches zero before all questions are answered, the game ends immediately, and the player's final score is displayed.
 - **Scoring**:
-- Correct Answer: Awards 10 points and marks the correct capital on the map with a star icon.
-- Incorrect Answer or Timeout: No points are awarded, and the game automatically moves to the next question.
+  - Correct Answer: Awards 10 points and marks the correct capital on the map with a star icon.
+  - Incorrect Answer or Timeout: No points are awarded, and the game automatically moves to the next question.
 
 - **End of Game**:
-- The game concludes when all questions are answered or the total game time expires.
-- Final Score Evaluation:
-   - Success: If the player's score is above the average, they see: "Congratulations, You Earned Points: [Score]".
-   - Failure: If the player's score is below the average, they see: "Game Over!! Score: [Score]".
+  - The game concludes when all questions are answered or the total game time expires.
+  - Final Score Evaluation:
+     - Success: If the player's score is above the average, they see: "Congratulations, You Earned Points: [Score]".
+     - Failure: If the player's score is below the average, they see: "Game Over!! Score: [Score]".
 
 ## Requirements
 ### Functional Requirements
