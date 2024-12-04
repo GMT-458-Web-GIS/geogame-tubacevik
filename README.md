@@ -113,7 +113,7 @@ The project utilizes the following libraries and technologies:
 
 -**Timer Implementation**:
 
-    - ChatGPT assisted in creating both the question timer and the game timer, ensuring smooth countdown functionality and integration into the interface (https://chatgpt.com/c/6750ab9c-3cf0-8000-87e0-ac397470ca59).
+  - ChatGPT assisted in creating both the question timer and the game timer, ensuring smooth countdown functionality and integration into the interface (https://chatgpt.com/c/6750ab9c-3cf0-8000-87e0-ac397470ca59).
     
 - **Correct Answer Marking**:
 
