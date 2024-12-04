@@ -9,23 +9,7 @@ https://gmt-458-web-gis.github.io/geogame-tubacevik/
 
 # GeoGame - World Capitals Quiz 🌍
 
-GeoGame is an interactive educational game designed to help users learn world capitals through a fun and engaging map-based quiz. Players are presented with the name of a capital city, and their task is to identify the country it belongs to from four multiple-choice options. Points are awarded for each correct answer, and a final score determines the player's success at the end of the game.
-
-## How to Play
-
-- **Question Timer**: Each question has a countdown timer (e.g., 10 seconds) displayed on the screen. Players must select an answer before the time runs out.  
-  - If the player selects the correct answer within the time limit, they earn 10 points, and the location is marked with a star icon on the map.
-  - If the player does not answer within the allotted time, the question is considered incorrect, no points are awarded, and the game automatically proceeds to the next question.
-
-- **Game Timer**: The game has a total timer (e.g., 120 seconds) which limits the overall playtime. This timer counts down throughout the game.  
-  - If the game timer reaches zero before all questions are answered, the game ends immediately, and the player's final score is displayed.
-
-- **End of Game**: Once all questions have been answered or the total game time runs out, the final score is displayed with a success or failure message:  
-  - If the score is above average, a success message appears: "Congratulations, You Earned Points: [Score]".
-  - If the score is below average, a failure message appears: "Game Over!! Score: [Score]".
-
-This structure provides a time-based challenge, encouraging players to answer both quickly and accurately. The combination of question and game timers keeps the game fast-paced and engaging.
-
+GeoGame is an interactive educational game designed to enhance users' geographical knowledge of world capitals through a map-based quiz format. The game combines learning with entertainment by presenting players with questions about capital cities. Players are tasked with identifying the corresponding countries from four multiple-choice options. Points are awarded for correct answers, and a final score determines the player's success at the end of the game.
 
 ## Table of Contents
 
@@ -37,13 +21,43 @@ This structure provides a time-based challenge, encouraging players to answer bo
 - [Design and UI](#design-and-ui)
 - [Project File Structure](#project-file-structure)
 - [Setup and Run Instructions](#setup-and-run-instructions)
+- [AI Contributions](#aı-contributions)
+- [DOM Interaction](#dom-interaction)
 
 ## Project Description and Purpose
 
 GeoGame is designed to enhance users' geographical knowledge of world capitals through an interactive and timed map-based quiz. The game combines visual elements on a world map with a quiz format, making learning fun and engaging for players of all ages.
 
-## Requirements
+## How to Play
 
+
+- **Question Display**:
+- The game starts with a randomly selected question about a capital city.
+- Players are asked, "Which country is [capital] located in?" and presented with four answer options.
+  
+- **Question Timer**: Each question has a countdown timer (e.g., 10 seconds) displayed on the screen. Players must select an answer before the time runs out.  
+  - If the player selects the correct answer within the time limit, they earn 10 points, and the location is marked with a star icon on the map.
+  - If the player does not answer within the allotted time, the question is considered incorrect, no points are awarded, and the game automatically proceeds to the next question.
+
+- **Game Timer**: The game has a total timer (e.g., 120 seconds) which limits the overall playtime. This timer counts down throughout the game.  
+  - If the game timer reaches zero before all questions are answered, the game ends immediately, and the player's final score is displayed.
+- **Scoring**:
+- Correct Answer: Awards 10 points and marks the correct capital on the map with a star icon.
+- Incorrect Answer or Timeout: No points are awarded, and the game automatically moves to the next question.
+
+- **End of Game**:
+- The game concludes when all questions are answered or the total game time expires.
+- Final Score Evaluation:
+   - Success: If the player's score is above the average, they see: "Congratulations, You Earned Points: [Score]".
+   - Failure: If the player's score is below the average, they see: "Game Over!! Score: [Score]".
+
+## Requirements
+### Functional Requirements
+- Display questions and multiple-choice options dynamically.
+- Mark correct answers on the map with a star.
+- Provide real-time feedback and scoring.
+- Include visible question and game timers.
+  
 ### User Requirements
 
 - Players should see marked capitals and countries on the map.
@@ -60,7 +74,7 @@ GeoGame is designed to enhance users' geographical knowledge of world capitals t
 
 ### Hardware Requirements
 
-- A web browser (e.g., Chrome, Firefox, Safari, Edge).
+- A web browser (e.g., Chrome).
 - Internet connection (to load map data).
 
 ## Technologies Used
@@ -94,9 +108,21 @@ The project utilizes the following libraries and technologies:
   - **Question Timer**: Shows the remaining time for the current question just below the question text.
 - **Feedback Animations**: D3.js animations show visual feedback, such as circles or stars, for correct answers.
 
-## Öğrenilen konular:
 
-https://chatgpt.com/c/6750ab9c-3cf0-8000-87e0-ac397470ca59
+## AI Interaction
+-**Timer Implementation**:
+
+    - ChatGPT assisted in creating both the question timer and the game timer, ensuring smooth countdown functionality and integration into the interface (https://chatgpt.com/c/6750ab9c-3cf0-8000-87e0-ac397470ca59).
+- **Correct Answer Marking**:
+
+    - The feature to mark correct answers on the map with a star icon was implemented with guidance from ChatGPT (https://chatgpt.com/c/6750b49d-fe1c-8000-86ab-f81ab774c616).
+      
+## DOM Interaction
+DOM manipulation is a key part of this project. Examples include:
+
+- Dynamically updating the question and options.
+- Modifying the map to reflect correct answers with markers.
+- Displaying timers and score updates in real-time.
 
 ## Project File Structure
 GeoGame/  
