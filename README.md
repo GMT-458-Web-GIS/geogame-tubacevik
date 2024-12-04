@@ -141,11 +141,13 @@ GeoGame/
 
 
 
+
 ### 2. Score Increase on Correct Answer
 
 - When a player selects the correct answer, they earn 10 points, and a star icon is added to mark the correct capital city on the map. This star serves as a visual indicator of the cities the player has correctly identified.
   
 ![Score increase on correct answer](https://i.ibb.co/7GzW1r2/a.jpg)
+
 
 
 ### 3. Warning and Progression on Wrong Answer
